@@ -1,0 +1,127 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #F1E8D6;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-image: url(images.html/footer.png);
+    height: auto;
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    margin-bottom: 0%;
+    margin-right: 2.5em;
+    margin-left: auto;
+}
+
+.fotogallerij{
+    width: 150px;
+    height: 220px;
+    margin-left: 1.3em;
+    margin-right: 0.5em;
+    margin-bottom: 1em;
+    margin-top: 0.5em;
+}
+
+h1{
+    text-align: center;
+    font-family: "delittle-chromatic", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.navigatie{
+    height: 70px;
+    padding-left: 0.02em;
+}
+
+.kaart{
+    display:block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 2em;
+}
+
+.geel{
+    display:block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.geel2{
+    display:block;
+    margin-left: 130px;
+    margin-top: 30px;
+}
+
+.geel3{
+    display:block;
+    margin-left: 15px;
+    margin-top: 30px;
+}
+
+.iconen{
+    display: block;
+    margin-right: auto;
+    margin-left: auto; 
+}
+
+.ruimte{
+    height: 95px;
+}
+
+.container{
+    text-align: center;
+    position: relative;
+}
+
+.centered{
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+h3{
+ font-family: "alphatier-pro", sans-serif;
+font-weight: 300;
+font-style: normal;
+font-size:small;
+}
+
+.logo{
+    width: 100px;
+}
+
+nav{
+    background-image: url(images.html/nav.png);
+    
+}
+
+h2{
+    text-align: center;
+    font-family: "delittle-chromatic", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size:large
+}
+
+.geelhome{
+    display:block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 30px;
+}
+
